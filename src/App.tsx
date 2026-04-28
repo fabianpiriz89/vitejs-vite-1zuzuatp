@@ -1,4 +1,4 @@
-import { useState, useRef } from "react";
+import React, { useState, useRef } from "react";
 
 // ══════════════════════════════════════════════════════════════
 // DATOS REALES — Ranking FIFA abril 2026 + Panini 2026
